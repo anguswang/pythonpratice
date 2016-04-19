@@ -15,5 +15,9 @@ class Fib(object):
         return str(self.numbers)
         	
 f= Fib(10)
+f1 = Fib(20)
 print f
+print f1
 print len(f)
+print len(f1)
+
